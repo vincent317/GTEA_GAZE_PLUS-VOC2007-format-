@@ -1,0 +1,26 @@
+<annotation>
+	<folder>carlos_pasta</folder>
+	<filename>0000004001.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\carlos_pasta\0000004001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>334</ymin>
+			<xmax>647</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>

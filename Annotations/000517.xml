@@ -1,0 +1,26 @@
+<annotation>
+	<folder>carlos_pizza</folder>
+	<filename>0000015085.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\carlos_pizza\0000015085.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spaghetti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>336</ymin>
+			<xmax>574</xmax>
+			<ymax>704</ymax>
+		</bndbox>
+	</object>
+</annotation>

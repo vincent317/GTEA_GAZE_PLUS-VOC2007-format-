@@ -1,0 +1,26 @@
+<annotation>
+	<folder>shaghayegh_american</folder>
+	<filename>0000004118.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\shaghayegh_american\0000004118.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>528</xmin>
+			<ymin>239</ymin>
+			<xmax>715</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rahul_american</folder>
+	<filename>0000005670.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\rahul_american\0000005670.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>463</xmin>
+			<ymin>311</ymin>
+			<xmax>616</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>

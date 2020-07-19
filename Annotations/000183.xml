@@ -1,0 +1,26 @@
+<annotation>
+	<folder>alireaza_american</folder>
+	<filename>0000006813.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\alireaza_american\0000006813.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>461</ymin>
+			<xmax>536</xmax>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+</annotation>

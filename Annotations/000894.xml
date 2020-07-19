@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rahul_turkey</folder>
+	<filename>0000006772.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\rahul_turkey\0000006772.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sandwich</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>327</ymin>
+			<xmax>628</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>

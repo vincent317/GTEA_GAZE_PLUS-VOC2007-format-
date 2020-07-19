@@ -1,0 +1,26 @@
+<annotation>
+	<folder>alireza_greek</folder>
+	<filename>0000005421.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\alireza_greek\0000005421.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vegetable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>421</ymin>
+			<xmax>463</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>

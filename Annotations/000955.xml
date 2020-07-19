@@ -1,0 +1,26 @@
+<annotation>
+	<folder>shaghayegh_snack</folder>
+	<filename>0000003142.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\shaghayegh_snack\0000003142.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bowl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>324</ymin>
+			<xmax>733</xmax>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+</annotation>

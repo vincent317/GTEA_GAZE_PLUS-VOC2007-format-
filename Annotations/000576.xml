@@ -1,0 +1,26 @@
+<annotation>
+	<folder>carlos_turkey</folder>
+	<filename>0000008322.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\carlos_turkey\0000008322.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>373</xmin>
+			<ymin>368</ymin>
+			<xmax>491</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>carlos_pasta</folder>
+	<filename>0000003433.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\carlos_pasta\0000003433.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>526</xmin>
+			<ymin>282</ymin>
+			<xmax>622</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

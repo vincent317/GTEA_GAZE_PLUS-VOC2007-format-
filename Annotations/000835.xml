@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rahul_snack</folder>
+	<filename>0000009510.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\rahul_snack\0000009510.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>milk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>363</xmin>
+			<ymin>285</ymin>
+			<xmax>601</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>

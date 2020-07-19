@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ahmad_greek</folder>
+	<filename>0000016908.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\ahmad_greek\0000016908.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vinaigrette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>236</ymin>
+			<xmax>588</xmax>
+			<ymax>700</ymax>
+		</bndbox>
+	</object>
+</annotation>

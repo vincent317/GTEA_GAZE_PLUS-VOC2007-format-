@@ -1,0 +1,26 @@
+<annotation>
+	<folder>shaghayegh_american</folder>
+	<filename>0000003548.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\shaghayegh_american\0000003548.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bowl</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>390</ymin>
+			<xmax>720</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

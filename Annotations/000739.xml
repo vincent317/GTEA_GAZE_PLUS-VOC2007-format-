@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rahul_snack</folder>
+	<filename>0000002411.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\rahul_snack\0000002411.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>244</ymin>
+			<xmax>697</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

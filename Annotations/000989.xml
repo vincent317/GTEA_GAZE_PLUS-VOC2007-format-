@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yin_pasta</folder>
+	<filename>0000010576.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\yin_pasta\0000010576.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>salt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>563</xmin>
+			<ymin>374</ymin>
+			<xmax>928</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+</annotation>

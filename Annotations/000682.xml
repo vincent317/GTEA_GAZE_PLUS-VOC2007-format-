@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rahul_american</folder>
+	<filename>0000015176.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\rahul_american\0000015176.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>348</ymin>
+			<xmax>748</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+</annotation>

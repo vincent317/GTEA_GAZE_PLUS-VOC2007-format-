@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rahul_snack</folder>
+	<filename>0000002891.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\rahul_snack\0000002891.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peanut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>402</ymin>
+			<xmax>495</xmax>
+			<ymax>677</ymax>
+		</bndbox>
+	</object>
+</annotation>

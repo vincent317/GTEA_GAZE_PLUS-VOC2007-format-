@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rahul_american</folder>
+	<filename>0000018902.jpg</filename>
+	<path>C:\Users\29469\Downloads\GTEA_GAZE_PLUS\GTEA_GAZE_PLUS\Images\rahul_american\0000018902.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>136</ymin>
+			<xmax>663</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>
